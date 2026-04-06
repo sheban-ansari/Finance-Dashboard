@@ -4,6 +4,12 @@ A responsive finance dashboard built using React and Tailwind CSS.
 
 ---
 
+##  Live Preview
+
+[Click Here to View Project](https://finance-dashboard-nine-delta.vercel.app/)
+
+---
+
 ## Features
 - Financial summary (Balance, Income, Expenses)
 - Transactions with search and filter
